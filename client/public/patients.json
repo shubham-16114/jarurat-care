@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": { "first": "Aarav", "last": "Sharma" },
+    "age": 29,
+    "contact": "+91-9876543210",
+    "avatar": "https://api.dicebear.com/9.x/initials/svg?seed=Aarav%20Sharma",
+    "address": "12 MG Road, Pune"
+  },
+  {
+    "id": "2",
+    "name": { "first": "Isha", "last": "Patel" },
+    "age": 34,
+    "contact": "+91-9123456780",
+    "avatar": "https://api.dicebear.com/9.x/initials/svg?seed=Isha%20Patel",
+    "address": "22 Ring Road, Ahmedabad"
+  },
+  {
+    "id": "3",
+    "name": { "first": "Rohan", "last": "Verma" },
+    "age": 41,
+    "contact": "+91-9988776655",
+    "avatar": "https://api.dicebear.com/9.x/initials/svg?seed=Rohan%20Verma",
+    "address": "44 Park Street, Kolkata"
+  }
+]

@@ -1,3 +1,0 @@
-[dotenv@17.2.3] injecting env (3) from .env -- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }
-Server running on port 5000
-Error: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
